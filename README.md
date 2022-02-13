@@ -30,7 +30,7 @@ An android app will start when boot and exit after 1s. Develop for Redmi K40 to 
 ![设置并开启如下两个自动任务](https://github.com/ovear/AutoExit/raw/main/binary/step4.jpg)
 ![设置并开启如下两个自动任务](https://github.com/ovear/AutoExit/raw/main/binary/step5.jpg)
 ![设置并开启如下两个自动任务](https://github.com/ovear/AutoExit/raw/main/binary/step6.jpg)
-6. 大功告成。
+6. 大功告成。手动打开一次App，就会自动开启DC调光，重启后也会自动开启。
 
 ## 常见问题/FAQ
 第一次开机后，等待AutoExit自动启动并退出，就会自动开启DC调光。
