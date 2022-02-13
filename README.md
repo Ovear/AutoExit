@@ -11,7 +11,7 @@ An android app will start when boot and exit after 1s. Develop for Redmi K40 to 
 ## 前提条件/Prerequisite
 * MIUI 13
 * 带有新版“自动任务”的“MIUI安全中心”（如果没有可以[点击这里下载](https://github.com/ovear/AutoExit/raw/main/binary/%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6_MIUISecurityCenter(6.0.2-220117.0.1).apk)）
-* AutoExit
+* AutoExit([点击这里下载](https://github.com/ovear/AutoExit/releases/download/v1.0/autoexit.v1.0.apk))
 
 ## 使用教程/Usage
 通过AutoExit App，配合带有新版本“自动任务”的“MIUI手机管家”可以实现红米K40全自动开启DC调光。
