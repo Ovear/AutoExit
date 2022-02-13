@@ -19,7 +19,7 @@ An android app will start when boot and exit after 1s. Develop for Redmi K40 to 
 通过AutoExit App，配合带有新版本“自动任务”的“MIUI手机管家”可以实现红米K40全自动开启DC调光。
 
 1. 安装AutoExit
-2. 打开AutoExit
+2. 手动打开AutoExit一次（建议一定要打开一次，防止系统不允许启动）
 3. 允许AutoExit自启动，并设置省电策略为“无限制”
 ![允许AutoExit自启动，并设置省电策略为“无限制”](https://github.com/ovear/AutoExit/raw/main/binary/step1.jpg)
 4. 为AutoExit打开“后台弹出界面”和“显示悬浮窗”权限
